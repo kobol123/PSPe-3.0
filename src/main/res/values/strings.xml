@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">PSPe+ 3.0</string>
+    <string name="shortcut_name">PSPe+ game</string>
+
+
+    <!-- Title of preference activity -->
+    <string name="preference_activity_title">PSPe+ Extension Settings</string>
+    <!-- Name of extension, shown in preferences -->
+    <string name="extension_name">PSPe+ Extension</string>
+    <!-- Configuration title shown in preferences -->
+    <string name="configuration_text">PSPe+ Extension Settings</string>
+    <!-- Menu option shown in preferences -->
+    <string name="preference_option_read_me">READ ME</string>
+    <!-- Read me text shown in dialog -->
+    <string name="preference_option_read_me_txt">The PSPe+ Extension controls the emulator with a SmartWatch2, to use configure in the map control settings in the emulator, the directions you want to any control button for emulator, if you want more actions just touch at same time in the Watch visor and choose direction!!!!! Thank You From MoStudios Team DEV.</string>
+
+    <!-- Sensor is unreliable. -->
+    <string name="accuracy_unreliable">Unrel.</string>
+
+    <!-- Sensor accuracy is low -->
+    <string name="accuracy_low">Low</string>
+
+    <!-- Sensor accuracy is medium -->
+    <string name="accuracy_medium">Medium</string>
+
+    <!-- Sensor accuracy is high -->
+    <string name="accuracy_high">High</string>
+
+    <!-- Label for the accuracy. -->
+    <string name="label_accuracy">Accuracy:&#160;</string>
+
+    <!-- Label for the x acceleration. -->
+    <string name="label_x">x:&#160;</string>
+
+    <!-- Label for the y acceleration. -->
+    <string name="label_y">y:&#160;</string>
+
+    <!-- Label for the z acceleration. -->
+    <string name="label_z">z:&#160;</string>
+
+    <!-- Label for the time stamp. -->
+    <string name="label_time">ms:&#160;</string>
+
+    <!-- Labels for the light sensor. -->
+    <string name="label_light">light:&#160;</string>
+    <string name="title_lightsensor">Light sensor</string>
+   
+   
+   
+   
+   
+    	<!-- Main -->
+
+    <!-- Msg -->
+
+
+</resources>
